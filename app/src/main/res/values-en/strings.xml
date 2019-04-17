@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeLanguageSample</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="good_morning">Good morning</string>
+</resources>
